@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  pokedex
 //
-//  Created by Randi Legates on 5/15/18.
-//  Copyright © 2018 Randi Legates. All rights reserved.
+//  Created by Darien Legates on 5/15/18.
 //
 
 import UIKit
